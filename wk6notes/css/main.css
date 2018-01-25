@@ -1,0 +1,30 @@
+body {
+  background-color: tomato;
+}
+#animateme{
+	transition: all 2s ease-in-out;
+	height: 200px;
+	width: 200px;
+	background-color: aqua;
+}
+#animateme:hover{
+	height: 400px;
+	background-color: pink;
+	mar
+}
+div{
+	height: 1000px;
+
+}
+.sec1{
+	background-color: black;
+}
+.sec2{
+	background-color: yellow;
+}
+.sec3{
+	background-color: green;
+}
+#nav{
+	position: fixed;
+}
